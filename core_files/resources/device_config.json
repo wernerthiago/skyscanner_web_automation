@@ -1,0 +1,27 @@
+{
+    "chrome": {
+        "devices": [
+            {
+                "path": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+                "log_path": "/Applications/Google Chrome.app/Contents/MacOS/log_chrome.txt"
+            }
+        ]
+    },
+    "firefox": {
+        "devices": [
+            {
+                "path": "/Applications/Firefox.app/Contents/MacOS/firefox",
+                "log_path": "/Applications/Firefox.app/Contents/MacOS/log_firefox.txt"
+            }
+        ]
+    },
+    "ie": {
+        "devices": [
+            {
+                "path": "*/*",
+                "log_path": "*/*"
+            }
+        ]
+    },
+    "address": "https://www.skyscanner.com.br"
+}
